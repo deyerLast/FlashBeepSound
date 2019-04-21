@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">flashBeep</string>
+    <string name="vibrate">vibrate</string>
+    <string name="flash_beep_or_shake">Flash Beep or Shake</string>
+    <string name="flash">FLASH</string>
+    <string name="beep">BEEP</string>
+    <string name="textview">TextView</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connect</string>
+    <string name="done">done</string>
+    <string name="intro">intro</string>
+    <string name="scan_button">scanButton</string>
+    <string name="connect_button">connectButton</string>
+</resources>
